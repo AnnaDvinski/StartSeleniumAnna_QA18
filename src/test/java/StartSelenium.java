@@ -12,6 +12,10 @@ public class StartSelenium {
     }
     @Test
     public void testName(){
+        int a = 5;
+        int b = 7;
+        System.out.println();
+
 
     }
 
